@@ -5,12 +5,12 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/img1.webp');
     font-family: Bai Jamjuree;
 }
 
 #container {
-    display: flex; 
+    display: flex; bg-mobile.webp
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('img/img3.webp'), no-repeat cover;
     }
 
     .cartao {
