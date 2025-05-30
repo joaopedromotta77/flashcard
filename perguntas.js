@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimento Geral',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
