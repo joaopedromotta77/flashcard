@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/img2.webp');
+    background: url('img/img3.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -14,7 +14,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
-    gap: 3rem;
+    gap: 3rem;Atualmente, quantos elementos químicos a tabela periódica possui?
 }
 
 .cartao {
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/img3.webp'), no-repeat cover;
+        background: url('img/img1.webp'), no-repeat cover;
     }
 
     .cartao {
